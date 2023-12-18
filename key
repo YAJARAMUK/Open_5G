@@ -1,9 +1,0 @@
-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
-
-to make this repo we have to remove the existing git inside:  /home/cdot/5G/open5gs/subprojects/prometheus-client-c
-
-deleted .git , .github/ , .gitignore
-
-
-
-
